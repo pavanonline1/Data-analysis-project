@@ -1,0 +1,1 @@
+data analysis is the systematic process of collecting,cleaning,transforming,and modeling,raw data to discover useful insights
